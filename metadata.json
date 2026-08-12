@@ -1,0 +1,6 @@
+{
+  "name": "Hisaba",
+  "description": "Personal expense tracking app with secure Google authentication and private cloud-synced financial data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

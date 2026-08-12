@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#131313"/>
+  <rect x="48" y="48" width="416" height="416" rx="96" fill="url(#grad)" />
+  <rect x="54" y="54" width="404" height="404" rx="90" fill="#1a1a1e" />
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a078ff" />
+      <stop offset="100%" stop-color="#4edea3" />
+    </linearGradient>
+  </defs>
+  <polyline points="150,330 220,200 290,280 370,160" fill="none" stroke="#d0bcff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="330" r="16" fill="#4edea3" />
+  <circle cx="220" cy="200" r="16" fill="#4edea3" />
+  <circle cx="290" cy="280" r="16" fill="#4edea3" />
+  <circle cx="370" cy="160" r="16" fill="#4edea3" />
+</svg>
